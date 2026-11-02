@@ -1262,7 +1262,7 @@ void MainWindow::setupTab9_About()
     m_aboutLicense->setTextInteractionFlags(Qt::TextSelectableByMouse);
     infoLay->addRow(tr("License:"), m_aboutLicense);
 
-    m_aboutRepo = new QLabel(QStringLiteral("<a href=\"https://github.com/dismal/toolbox-qt\">https://github.com/dismal/toolbox-qt</a>"), infoBox);
+    m_aboutRepo = new QLabel(QStringLiteral("<a href=\"https://github.com/dismal002/ADBToolBox\">https://github.com/dismal002/ADBToolBox</a>"), infoBox);
     m_aboutRepo->setTextFormat(Qt::RichText);
     m_aboutRepo->setOpenExternalLinks(true);
     m_aboutRepo->setTextInteractionFlags(Qt::TextSelectableByMouse | Qt::LinksAccessibleByMouse);
