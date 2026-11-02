@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file alias="toolbox_en.qm">../translations/toolbox_en.qm</file>
+        <file alias="toolbox_zh_CN.qm">../translations/toolbox_zh_CN.qm</file>
+        <file alias="toolbox_zh_TW.qm">../translations/toolbox_zh_TW.qm</file>
+        <file alias="toolbox_ru.qm">../translations/toolbox_ru.qm</file>
+        <file alias="toolbox_ja.qm">../translations/toolbox_ja.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="home.svg">../icons/home_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="apps.svg">../icons/apps_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="display.svg">../icons/display_settings_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="battery.svg">../icons/battery_5_bar_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="monitor.svg">../icons/monitoring_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="sliders.svg">../icons/format_color_fill_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="script.svg">../icons/description_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="terminal.svg">../icons/terminal_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="settings.svg">../icons/settings_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="refresh.svg">../icons/refresh_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="check.svg">../icons/check_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="restore.svg">../icons/settings_backup_restore_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="lock.svg">../icons/lock_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="volume_up.svg">../icons/volume_up_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="volume_down.svg">../icons/volume_down_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="volume_mute.svg">../icons/volume_mute_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="back.png">../icons/ic_sysbar_back.png</file>
+        <file alias="home_nav.png">../icons/ic_sysbar_home.png</file>
+        <file alias="recent.png">../icons/ic_sysbar_recent.png</file>
+        <file alias="screenshot.svg">../icons/screenshot_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="network.svg">../icons/wifi_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file alias="info.svg">../icons/info_24dp_000_FILL0_wght400_GRAD0_opsz24.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="toolbox_en.qm">../translations/toolbox_en.qm</file>
+        <file alias="toolbox_zh_CN.qm">../translations/toolbox_zh_CN.qm</file>
+        <file alias="toolbox_zh_TW.qm">../translations/toolbox_zh_TW.qm</file>
+        <file alias="toolbox_ru.qm">../translations/toolbox_ru.qm</file>
+        <file alias="toolbox_ja.qm">../translations/toolbox_ja.qm</file>
+    </qresource>
+</RCC>
