@@ -1315,7 +1315,7 @@ void MainWindow::retranslateUi()
         m_aboutLicense->setText(QStringLiteral("GPL v3"));
     }
     if (m_aboutRepo) {
-        m_aboutRepo->setText(QStringLiteral("<a href=\"https://github.com/dismal/toolbox-qt\">https://github.com/dismal/toolbox-qt</a>"));
+        m_aboutRepo->setText(QStringLiteral("<a href=\"https://github.com/dismal002/ADBToolBox\">https://github.com/dismal002/ADBToolBox</a>"));
     }
     if (m_aboutTitle) {
         m_aboutTitle->setText(QStringLiteral("Android ADB Toolbox"));
